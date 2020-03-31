@@ -22,11 +22,34 @@ const Header = ({ siteTitle }) => (
           style={{
             color: `white`,
             textDecoration: `none`,
+            fontSize: "1em",
+            fontFamily: 'Montserrat Alternates, sans-serif',
+            letterSpacing: "1px"
           }}
         >
           {siteTitle}
         </Link>
       </h1>
+      <br/>
+      <Link to="/blog/"
+       style={{
+        color: `white`,
+        textDecoration: `none`,
+        fontFamily: "sans-serif"
+      }}
+      >
+        Blog
+      </Link>
+      <Link to="/work/"
+       style={{
+        color: `white`,
+        textDecoration: `none`,
+        fontFamily: "sans-serif",
+        marginLeft: "15px"
+      }}
+      >
+        Work
+      </Link>
     </div>
   </header>
 )
