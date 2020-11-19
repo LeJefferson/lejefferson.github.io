@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `by lejefferson`,
+    title: `by Le Jefferson`,
     description: `The place I share my creative journey`,
     author: `LeJefferson`,
   },
