@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{vx99:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),o=n("Wbzz"),c=n("Bl7J"),r=n("vrFN");t.default=function(){return l.a.createElement(c.a,null,l.a.createElement(r.a,{title:"Blog"}),l.a.createElement("h1",null,"Hi !"),l.a.createElement("p",null,"Welcome to my blog"),l.a.createElement(o.Link,{to:"/",style:{color:"black",textDecoration:"none",fontFamily:"sans-serif"}},"Go back to the homepage"))}}}]);
-//# sourceMappingURL=component---src-pages-blog-js-349db0ffbe7b6e0785e7.js.map
